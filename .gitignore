@@ -1,0 +1,7 @@
+venv/
+.idea/
+*.pyc
+*.swp
+.DS_Store
+.env
+staticfile/
